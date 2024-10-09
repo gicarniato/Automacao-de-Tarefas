@@ -1,6 +1,6 @@
-# 🚀 Automação de Cadastro de Informações com PyAutoGUI
+#  Automação de Cadastro de Informações com PyAutoGUI
 
-Este projeto é um script em Python que **automação** o processo de login em um site e o **cadastro de informações** utilizando a biblioteca **PyAutoGUI**. O script lê dados de um arquivo CSV e os insere em campos específicos na interface do usuário.
+Este projeto é um script em Python que **automiza** o processo de login em um site e o **cadastro de informações** utilizando a biblioteca **PyAutoGUI**. O script lê dados de um arquivo CSV e os insere em campos específicos na interface do usuário.
 
 ## 📋 Requisitos
 
